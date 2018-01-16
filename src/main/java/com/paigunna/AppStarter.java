@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.paigunna.web;
+package com.paigunna;
 
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
